@@ -1,0 +1,7 @@
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonMainProject\bin\Debug\KlaitonMainProject.exe.config
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonMainProject\bin\Debug\KlaitonMainProject.exe
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonMainProject\bin\Debug\KlaitonMainProject.pdb
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonMainProject\obj\Debug\KlaitonMainProject.csprojAssemblyReference.cache
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonMainProject\obj\Debug\KlaitonMainProject.csproj.CoreCompileInputs.cache
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonMainProject\obj\Debug\KlaitonMainProject.exe
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonMainProject\obj\Debug\KlaitonMainProject.pdb

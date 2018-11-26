@@ -1,0 +1,13 @@
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\KlaitonProject.deps.json
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\KlaitonProject.runtimeconfig.json
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\KlaitonProject.runtimeconfig.dev.json
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\KlaitonProject.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\KlaitonProject.pdb
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\obj\Debug\netcoreapp2.1\KlaitonProject.csproj.CoreCompileInputs.cache
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\obj\Debug\netcoreapp2.1\KlaitonProject.AssemblyInfoInputs.cache
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\obj\Debug\netcoreapp2.1\KlaitonProject.AssemblyInfo.cs
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\obj\Debug\netcoreapp2.1\KlaitonProject.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\obj\Debug\netcoreapp2.1\KlaitonProject.pdb

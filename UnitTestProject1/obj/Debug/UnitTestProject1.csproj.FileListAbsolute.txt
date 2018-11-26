@@ -1,0 +1,17 @@
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\KlaitonMainProject.exe
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\KlaitonMainProject.pdb
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\UnitTestProject1\bin\Debug\KlaitonMainProject.exe.config

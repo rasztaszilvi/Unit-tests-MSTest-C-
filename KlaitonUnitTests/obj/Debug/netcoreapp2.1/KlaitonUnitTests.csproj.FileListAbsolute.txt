@@ -1,0 +1,14 @@
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\KlaitonUnitTests.deps.json
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\KlaitonUnitTests.runtimeconfig.json
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\KlaitonUnitTests.runtimeconfig.dev.json
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\KlaitonUnitTests.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\bin\Debug\netcoreapp2.1\KlaitonUnitTests.pdb
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\obj\Debug\netcoreapp2.1\KlaitonUnitTests.csprojAssemblyReference.cache
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\obj\Debug\netcoreapp2.1\KlaitonUnitTests.csproj.CoreCompileInputs.cache
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\obj\Debug\netcoreapp2.1\KlaitonUnitTests.AssemblyInfoInputs.cache
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\obj\Debug\netcoreapp2.1\KlaitonUnitTests.AssemblyInfo.cs
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\obj\Debug\netcoreapp2.1\KlaitonUnitTests.dll
+C:\Szilvi\Repos\Learning and Practice\C#\Unit tests Klaiton\KlaitonUnitTests\KlaitonUnitTests\obj\Debug\netcoreapp2.1\KlaitonUnitTests.pdb
