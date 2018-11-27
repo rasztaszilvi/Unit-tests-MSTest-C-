@@ -2,7 +2,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using static KlaitonUnitTests.KlaitonProject;
 
-
 namespace KlaitonMainProjectTest
 {
     /// <summary>
@@ -20,7 +19,14 @@ namespace KlaitonMainProjectTest
         }
 
         //write other unittest to find the bugs 
+        [TestMethod()]
+        public void GetBorderTimeTest()
+        {
+            Assert.Fail();
+        }
 
+
+        //which test are necessary to 100% code coverage (test all the function)
         [DataRow(BorderRange.Day)]
         [DataRow(BorderRange.Month)]
         [DataRow(BorderRange.Year)]
@@ -77,9 +83,5 @@ namespace KlaitonMainProjectTest
                     break;
             }
         }
-
- 
-
-        //which test are necessary to 100% code coverage (test all the function)
     }
 }
